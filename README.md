@@ -1,2 +1,2 @@
 # Hello-Word
-Just a test bro
+Just a test
